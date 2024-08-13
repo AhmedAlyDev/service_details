@@ -10,9 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.6
-  flutter_swipe_detector: ^2.0.0
-  rxdart: ^0.28.0
 
 dev_dependencies:
   flutter_test:
