@@ -1,16 +1,8 @@
-# quarizm_ui_task
+# ServiceDetails Screen
 
-A new Flutter project.
+A Flutter screen that displays service details including images, price, rating, and description. The screen features an image carousel, quantity selector, and buttons for adding to cart or favorites. It uses basic state management with `setState` for UI updates.
 
-## Getting Started
+## Custom Widgets
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- `CustomIconButton`
+- `CustomPageIndicator`
